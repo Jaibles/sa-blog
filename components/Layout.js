@@ -3,7 +3,7 @@ import Head from 'next/head'
 import styled from 'styled-components'
 
 const Site = styled.div`
-  max-width: 680px;
+  max-width: 620px;
   margin: 100px auto;
   background-color: #fff;
 `
